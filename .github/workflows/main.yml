@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   
   schedule:
@@ -25,4 +25,4 @@ jobs:
         git config user.email hola@salteadorneo.dev
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "Test workflows"
-        git push origin master
+        git push origin main
