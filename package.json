@@ -1,0 +1,28 @@
+{
+  "name": "salteadorneo",
+  "version": "1.0.0",
+  "description": "salteadorneo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salteadorneo/salteadorneo.git"
+  },
+  "keywords": [
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salteadorneo/salteadorneo/issues"
+  },
+  "homepage": "https://github.com/salteadorneo/salteadorneo#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "standard": "16.0.4"
+  }
+}
