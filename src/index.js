@@ -5,7 +5,7 @@ import { promises as fs } from 'fs'
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
   ])
   
-  template = template.replace(/%{{random}}%/g, Math.round(Math.random() * 100) / 10);
+  const resTemplate = template.replace(/%{{random}}%/g, Math.round(Math.random() * 100) / 10);
 
-  await fs.writeFile('README.md', template)
+  await fs.writeFile('README.md', resTemplate)
 })()
