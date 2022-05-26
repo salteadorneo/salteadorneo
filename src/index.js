@@ -4,6 +4,8 @@ import { promises as fs } from 'fs'
   const [template] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
   ])
+  
+  template = template.replace(/%{{random}}%/g, Math.round(Math.random() * 100) / 10);
 
   await fs.writeFile('README.md', template)
 })()
