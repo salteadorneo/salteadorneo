@@ -6,7 +6,6 @@
 
 ## Tecnologías 🔥
 
-
 ![Vuejs](https://img.shields.io/badge/-Vuejs-1a1a1a?style=flat-square&logo=vuedotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -37,3 +36,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salteadorneo&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salteadorneo.salteadorneo)
+
+Versión %{{random}}%
