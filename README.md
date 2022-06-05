@@ -37,4 +37,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salteadorneo.salteadorneo)
 
-Versión 0.5
+Versión 5.2
