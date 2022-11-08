@@ -1,6 +1,6 @@
-## Social 👋
+![hero](https://media-exp1.licdn.com/dms/image/C4D16AQGOqsUA5z8OSQ/profile-displaybackgroundimage-shrink_350_1400/0/1663283364051?e=1673481600&v=beta&t=E32OlGfipVJc-P2kBa0Mj6-R3DyrRjvHPRja8zKrG4M)
 
-[![Twitter: salteadorneo88](https://img.shields.io/twitter/follow/salteadorneo88?style=social)](https://twitter.com/salteadorneo88)
+<!-- [![Twitter: salteadorneo88](https://img.shields.io/twitter/follow/salteadorneo88?style=social)](https://twitter.com/salteadorneo88) -->
 [![Linkedin: cristianadan](https://img.shields.io/badge/-cristianadan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianadan/)](https://www.linkedin.com/in/cristianadan/)
 [![GitHub salteadorneo](https://img.shields.io/github/followers/salteadorneo?label=follow&style=social)](https://github.com/salteadorneo)
 
@@ -23,11 +23,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
@@ -36,5 +34,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salteadorneo&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salteadorneo.salteadorneo)
-
-Versión 5.8
